@@ -1,2 +1,2 @@
-# StudentManagementSystemm
+# StudentManagementSystemz
 StudentManagementSystemm
